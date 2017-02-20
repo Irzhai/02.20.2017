@@ -1,1 +1,1 @@
-# 02.20.2017
+Salam templati yazdim axirni yazmadim.
