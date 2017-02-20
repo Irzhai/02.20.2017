@@ -1,0 +1,113 @@
+body,
+main {
+margin:0 auto;
+}
+.header.navbar {
+height:800px;
+margin-top:-50px;
+background-color:grey;
+}
+.navbar {
+background-image: url(img/hero-01.jpg);
+background-size:cover;
+}
+.logo {
+margin-left:380px;
+margin-top:50px;
+background-image:url(img/logo-blue@2x.png);
+width:90px;
+height:48px;
+background-size:cover;	
+position:absolute;
+top:10px;
+}
+.right_nav {
+font-size:20px;
+margin-top:98px;
+float:right;
+margin-right:410px;
+}
+.words h2 {
+font-size:45px;
+position:absolute;
+top:200px;
+left:380px;
+color:white;
+}
+.button button{
+width:196.53px;
+height:62px;
+background-color: #fff;
+color: #4b98a9;
+font-size: 16px;
+position: absolute;
+top:420px;
+left:375px;
+border-radius:10px;
+}
+.button .first_but:hover{
+background-color:#4b98a9;
+color:white;
+}
+.second_but{
+display: inline-block;
+padding: 18px 46px;
+border: 3px solid #fff;
+border-radius: 3px;
+color: #fff;
+font-size: 16px;
+margin-left:210px;
+}
+.second_but:hover{
+border: 3px solid #4b98a9;
+}
+.second_but{
+color:white;
+}
+.watch_video{
+height:250px;
+margin-top:-20px;
+}
+.container .watch_video h2 {
+text-align:center;
+position:relative;
+top:100px;
+}
+.container .watch_video h2:hover{
+color:#4b98a9;
+}
+.front_design{
+height:300px;
+}
+.left{
+background-image:url(img/features-intro-01.jpg);
+width:937px;
+height:350px;
+background-color: grey;
+background-size:cover;
+margin-top:-80px;
+display:inline-block;
+}
+.right{
+width:960px;
+height:350px;
+background-color: #3F6184;
+display:inline-block;
+position:absolute;
+top:920px;
+}
+.right h1{
+margin-bottom: 15px;
+color: #fff;
+font-weight: 400;
+font-size: 22px;
+}
+.right h2{
+color: #fff;
+font-size: 14px;
+}
+.writer{
+position:absolute;
+left:50px;
+top:60px;
+}
